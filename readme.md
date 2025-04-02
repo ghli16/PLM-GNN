@@ -1,6 +1,6 @@
 ## PLM-GNN：Classification of virulence factor based on dual-channel neural networks with pre-trained language models
 
-This is the repository related to our manuscript Classification of virulence factor based on dual-channel neural networks with pre-trained language models, currently in submission at Interdisciplinary Sciences: Computational Life Sciences.
+This is the repository related to our manuscript Classification of virulence factor based on dual-channel neural networks with pre-trained language models, currently in submission at BMC Bioinformatics.
 
 ## Code
 ### Environment Requirement
